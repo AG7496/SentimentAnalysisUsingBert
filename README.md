@@ -1,3 +1,2 @@
-Transfomer based sentiment analysis
-
+Transfomer based sentiment analysis\n
 Dataset: yelp_review_polarity
